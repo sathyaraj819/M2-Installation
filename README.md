@@ -4,7 +4,7 @@
      - php (7.2)
      - mysql (phpMyadmin)
 
-### Step-1 Download Magento from the webiste [ LINK in the Description ]
+### Step-1 Download Magento from the webiste
 #### https://magento.com/tech-resources/download
 
 ## step-2 Make a magento directory and extract the content there
